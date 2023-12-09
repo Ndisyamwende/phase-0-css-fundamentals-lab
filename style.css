@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: red;
+  align-items: center;
+
+}
+navbar {
+padding: 10px;
+background color: grey;
+}
+
+image{
+align-items: center;
+font-size: small;
+
+}
+nav a {
+  text-align: center;
+  padding: 10px;
+  color: grey;
+}
+nav p {
+  width: 800px;
+  text-align: center;
+
+}
+details{
+  div{float: left;
+    color: blue ;
+    text-align: center;
+    width: 0px 0px 0px 25;
+  
+  }
+}
+
+
